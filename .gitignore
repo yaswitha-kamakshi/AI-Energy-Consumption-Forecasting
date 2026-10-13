@@ -7,4 +7,4 @@ __pycache__/
 # Large raw data (link to the source in the README instead)
 data/raw/*
 !data/raw/.gitkeep
-*.zip
+*.zip.venv/
