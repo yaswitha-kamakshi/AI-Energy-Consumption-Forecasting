@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Large raw data (link to the source in the README instead)
+data/raw/*
+!data/raw/.gitkeep
+*.zip
