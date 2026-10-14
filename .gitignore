@@ -1,4 +1,5 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -7,4 +8,8 @@ __pycache__/
 # Large raw data (link to the source in the README instead)
 data/raw/*
 !data/raw/.gitkeep
-*.zip.venv/
+*.zip
+
+# Generated files
+data/processed/
+models/*.pkl
