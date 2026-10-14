@@ -71,4 +71,4 @@ Returns timestamped forecasts in kW. `python test_api.py` builds a sample reques
 Time-series data leakage and chronological splitting, lag and rolling features, baseline comparison, recursive forecasting, and serving a model through an API.
 
 ## Author
-yaswitha kamakshi: [GitHub](https://github.com/yaswitha-kamakshi) | [LinkedIn](www.linkedin.com/in/yaswitha-kamakshi-292b5242b)
+Yaswitha Kamakshi  GitHub:(https://github.com/@yaswitha-kamakshi) | LinkedIn: (www.linkedin.com/in/yaswitha-kamakshi-292b5242b)
